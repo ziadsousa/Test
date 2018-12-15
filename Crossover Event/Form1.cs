@@ -20,7 +20,7 @@ namespace Crossover_Event
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             MessageBox.Show("kjvkvh");
-            MessageBox.Show("I love u");
+            MessageBox.Show("LA2A");
         }
     }
 }
